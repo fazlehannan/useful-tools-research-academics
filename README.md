@@ -64,3 +64,13 @@ This repository aims to:
 
 - *Add tools (e.g., Notion, Obsidian, Zotero)*  
 
+## ⚠️ Disclaimer  
+
+This repository is intended for educational and informational purposes only.  
+
+- All tools listed belong to their respective owners and developers.  
+- This repository does not host, distribute, or claim ownership of any third-party tools or services.  
+- The inclusion of any tool does not imply endorsement or affiliation.  
+- Users are encouraged to review the official documentation, licensing, and terms of use of each tool before use.  
+
+If any content requires correction or removal, please feel free to contact.

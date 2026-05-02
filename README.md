@@ -35,7 +35,11 @@ This repository aims to:
 
 ## 📚 Literature Review  
 
-- *Add tools (e.g., Semantic Scholar, Connected Papers)*  
+| Tool | Description | Link |
+|------|------------|------|
+| Semantic Scholar | AI-powered academic search engine for research papers | https://www.semanticscholar.org |
+| Connected Papers | Visualizes relationships between research papers | https://www.connectedpapers.com |
+| Elicit | Free AI research assistant for finding, summarizing, and analyzing academic papers | https://elicit.com |
 
 ---
 

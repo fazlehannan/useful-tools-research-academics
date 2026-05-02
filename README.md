@@ -45,25 +45,40 @@ This repository aims to:
 
 ## ✍️ Academic Writing  
 
-- *Add tools (e.g., Grammarly, Overleaf, ChatGPT)*  
+| Tool | Description | Link |
+|------|------------|------|
+| ChatGPT | AI assistant for drafting, summarizing, paraphrasing, and improving academic writing | https://chat.openai.com |
+| RefWorks | Reference management tool for organizing citations and creating bibliographies | https://www.refworks.com |
 
 ---
 
 ## 💻 Coding & Development  
 
-- *Add tools (e.g., GitHub, VS Code, Jupyter Notebook)*  
+| Tool | Description | Link |
+|------|------------|------|
+| Jupyter Notebook | Interactive environment for coding, experiments, and research workflows | https://jupyter.org |
+| VS Code | Lightweight and powerful code editor with extensions and debugging support | https://code.visualstudio.com |
+| Google Colab | Cloud-based Jupyter environment for running Python code with free GPU support | https://colab.research.google.com |
+| PyCharm | Professional Python IDE for development, debugging, and research projects | https://www.jetbrains.com/pycharm |
 
 ---
 
 ## 📊 Data Analysis  
 
-- *Add tools (e.g., Python, R, MATLAB, Pandas)*  
+| Tool | Description | Link |
+|------|------------|------|
+| Python (Pandas) | Powerful library for data manipulation, analysis, and research workflows | https://pandas.pydata.org |
+| IBM SPSS | Statistical analysis software for data management and advanced analytics | https://www.ibm.com/products/spss-statistics |
 
 ---
 
 ## 📈 Presentation & Visualization  
 
-- *Add tools (e.g., PowerPoint, Canva, Tableau)*  
+| Tool | Description | Link |
+|------|------------|------|
+| PowerPoint | Tool for creating academic and research presentations | https://www.microsoft.com/powerpoint |
+| Canva | Easy-to-use tool for designing presentations and visual content | https://www.canva.com |
+| Lucidchart | Diagramming tool for flowcharts, system design, and research visuals | https://www.lucidchart.com |
 
 ---
 

@@ -1,6 +1,6 @@
 # 🧰 Useful Tools for Research & Academics  
 
-### Collection of useful tools for research and academic work, including AI-powered solutions for writing, literature review, coding, data analysis, and productivity.
+### Collection of useful tools for research and academic work, including AI-powered solutions for writing, literature review, coding, & data analysis.
 ## 🔗 Related Repositories  
 
 - 📄 [Research Papers](https://github.com/fazlehannan/research-papers) – research papers  
@@ -26,7 +26,7 @@ This repository aims to:
 - [Coding & Development](#-coding--development)  
 - [Data Analysis](#-data-analysis)  
 - [Presentation & Visualization](#-presentation--visualization)  
-- [Productivity](#-productivity)  
+
 
 ---
 
@@ -60,10 +60,6 @@ This repository aims to:
 
 ---
 
-## ⚡ Productivity  
-
-- *Add tools (e.g., Notion, Obsidian, Zotero)*  
-
 ## ⚠️ Disclaimer  
 
 This repository is intended for educational and informational purposes only.  
@@ -73,4 +69,4 @@ This repository is intended for educational and informational purposes only.
 - The inclusion of any tool does not imply endorsement or affiliation.  
 - Users are encouraged to review the official documentation, licensing, and terms of use of each tool before use.  
 
-If any content requires correction or removal, please feel free to contact.
+## If any content requires correction or removal, please feel free to contact.

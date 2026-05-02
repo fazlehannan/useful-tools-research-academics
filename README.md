@@ -3,10 +3,9 @@
 ### Collection of useful tools for research and academic work, including AI-powered solutions for writing, literature review, coding, & data analysis.
 ## 🔗 Related Repositories  
 
-- 📄 [Research Papers](https://github.com/fazlehannan/research-papers) – research papers  
-- 📘 [Books & Notes](https://github.com/fazlehannan/books-notes) – study books and notes 
-- 📊 [Research Datasets](https://github.com/fazlehannan/research-datasets) – datasets for experiments  
-- 🧰 [Research Tools](https://github.com/fazlehannan/useful-tools-research-academics) – tools for research & academic workflow  
+📄 [Research Papers & Datasets](https://github.com/fazlehannan/research-papers-datasets) – curated research papers and datasets  
+📘 [Books & Notes](https://github.com/fazlehannan/books-notes) – study books and notes  
+🧰 [Research Tools](https://github.com/fazlehannan/useful-tools-research-academics) – tools for research & academic workflow  
 ---
 
 ## 🎯 Purpose  
